@@ -4,7 +4,7 @@
 
 ### Reg No : 212224220065
 
-## AIM:
+## AIM: 
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
 
